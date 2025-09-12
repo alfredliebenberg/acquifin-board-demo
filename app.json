@@ -16,8 +16,11 @@
         "backgroundColor": "#ffffff"
       }
     },
-    "updates": {
-      "fallbackToCacheTimeout": 0
+    "updates": { "fallbackToCacheTimeout": 0 },
+    "extra": {
+      "eas": {
+        "projectId": "acquifin-board-demo"
+      }
     }
   }
 }
