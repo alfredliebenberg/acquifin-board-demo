@@ -19,7 +19,7 @@
     "updates": { "fallbackToCacheTimeout": 0 },
     "extra": {
       "eas": {
-        "projectId": "acquifin-board-demo"
+        "projectId": "728303e5-6d8f-432e-97df-c7abb102670f"
       }
     }
   }
