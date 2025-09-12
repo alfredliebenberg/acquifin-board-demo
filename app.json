@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Acquifin Loan App",
-    "slug": "acquifin-loan-app",
+    "slug": "final",
     "version": "1.0.0",
     "icon": "./assets/images/logo.png",
     "splash": {
@@ -21,6 +21,9 @@
       "eas": {
         "projectId": "728303e5-6d8f-432e-97df-c7abb102670f"
       }
-    }
+    },
+    "sdkVersion": "53.0.0",
+    "platforms": ["ios", "android"]
   }
 }
+
