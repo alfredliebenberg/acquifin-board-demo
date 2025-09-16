@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "Acquifin Loan App",
+    "slug": "acquifin-loan-app",
+    "version": "1.0.0",
+    "icon": "./assets/images/logo.png",
+    "splash": {
+      "image": "./assets/images/logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "android": {
+      "package": "com.acquifin.loanapp",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/logo.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "extra": {
+      "supabaseUrl": "https://chknwkydkpwiyssmsusn.supabase.co",
+      "supabaseAnonKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImNoa253a3lka3B3aXlzc21zdXNuIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTcwNzQ2NTcsImV4cCI6MjA3MjY1MDY1N30.AIbcj7lbmINbyplS196ZwmTdSglxRnXT_L9e9NKYv7I",
+      "eas": {
+        "projectId": "848bb784-3719-4234-a503-fc91af519fca"
+      }
+    }
+  }
+}
